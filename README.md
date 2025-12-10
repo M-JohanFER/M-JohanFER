@@ -9,9 +9,7 @@
 </div>
 
 
-🌱 Currently immersed in the world of **programming**, Fascinated by the elegance of **fronten'd** and **backen'd**, always seeking more **knowledge**, inspired to **create**, **analyze**, and **modify**.
-
-💻 Passionately developing several career projects as a **systems** engineer.
+💻 Considero que la programación es una meditación constante sobre la naturaleza del problema. No se trata solo de escribir líneas, sino de destilar la esencia de la solución de manera concisa y mantenible.
 
 
 <div align="Center">
